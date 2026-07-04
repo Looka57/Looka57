@@ -42,15 +42,15 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ### Outils & environnement
 
-** Développement**  
+**Développement**  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-** Versioning & collaboration**  
+**Versioning & collaboration**  
 ![Git](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-** Design & UI/UX**  
+**Design & UI/UX**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photopea](https://img.shields.io/badge/photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white)
 
@@ -75,7 +75,7 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 ### Projets
 
 
-** APS Judo – Porcelette (Système web complet)**
+**APS Judo – Porcelette (Système web complet)**
 Développement d'un écosystème web complet pour une structure associative de judo.
 - Site public pour présenter l'activité et les informations du club
 - Dashboard administrateur pour la gestion des contenus
@@ -94,7 +94,7 @@ Développement d'un écosystème web complet pour une structure associative de j
 
 ---
 
-** Site institutionnel — ADEM Luxembourg**
+**Site institutionnel — ADEM Luxembourg**
 Développement d'un site dynamique pour le Rapport Annuel, avec une interface d'administration permettant la gestion complète des contenus sans intervention technique.
 - Back-office sur-mesure
 - Architecture MVC
@@ -111,7 +111,7 @@ Développement d'un site dynamique pour le Rapport Annuel, avec une interface d'
 
 ---
 
-** Admin MNS**
+**Admin MNS**
 Application de gestion administrative développée en C# / ASP.NET MVC pour l'examen du diplôme Concepteur Développeur d'Application 2024/2025.
 - Gestion des stagiaires, Roles, Dossiers, Utilisateurs... (CRUD)
 - Dashboard de pilotage pour visualiser l’activité
@@ -128,11 +128,11 @@ Application de gestion administrative développée en C# / ASP.NET MVC pour l'ex
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-> 🔗 Envie de voir le code ? Retrouve mes dépôts épinglés directement sur mon profil GitHub ci-dessus.
-
 ---
 
-###En ce moment
+> 🔗 Envie de voir le code ? Retrouve mes dépôts épinglés directement sur mon profil GitHub ci-dessus.
+
+### En ce moment
 
 ```text
 Apprentissage      → ASP.NET Core MVC & approfondissement de C#
