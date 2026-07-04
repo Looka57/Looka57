@@ -50,6 +50,14 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 </div>
 
+### 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Looka57&theme=radical&hide_border=true)
+
+</div>
+
 
 ## 💼 Projets
 
