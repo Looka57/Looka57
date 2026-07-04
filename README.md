@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Amandine 👋</h1>
+<h1 align="center">Salut, moi c'est Amandine </h1>
 <h3 align="center">Développeuse Full Stack — reconvertie et passionnée par la création d'interfaces modernes, accessibles et intuitives</h3>
 
 <p align="center">
@@ -48,8 +48,8 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 ![Photopea](https://img.shields.io/badge/photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white)
 
 ### Méthodologie & bonnes pratiques 
-`Responsive Design` · `UI/UX Design` · `API REST (en cours d'apprentissage)` · `Architecture MVC` · `Clean Code` . `Principes SOLID (bases)` . `Méthode Agile / Scrum (travail en équipe)` . 
-`Notions de tests (unitaires / fonctionnels)` .  `Optimisation des performances web` .  `Accessibilité (a11y) & bonnes pratiques UX` .  `Sécurité web (bases : validation, protection des formulaires, Requetes preparées)`
+`Responsive Design` · `UI/UX Design` · `API REST (en cours d'apprentissage)` · `Architecture MVC` · `Clean Code` · `Principes SOLID (bases)` · `Méthode Agile / Scrum (travail en équipe)` ·
+`Notions de tests (unitaires / fonctionnels)` · `Optimisation des performances web` · `Accessibilité (a11y) & bonnes pratiques UX` · `Sécurité web (bases : validation, protection des formulaires, Requetes preparées)`
 
 ---
 
@@ -67,12 +67,12 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ### Projets
 
-**📌 Site institutionnel ADEM Luxembourg**
+** Site institutionnel ADEM Luxembourg**
 - Développement d'un site dynamique pour le Rapport Annuel
 - Interface d'administration permettant la gestion complète des contenus
 - Stack : PHP · MySQL · Bootstrap · JavaScript
 
-**📌 Refonte de sites web**
+** Refonte de sites web**
 - Conception de maquettes UI/UX
 - Développement responsive
 - Optimisation des performances et de l'accessibilité
@@ -87,4 +87,4 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ---
 
-<p align="center">⭐ N'hésitez pas à parcourir mes projets et à suivre mon évolution !</p>
+<p align="center"> N'hésitez pas à parcourir mes projets et à suivre mon évolution !</p>
