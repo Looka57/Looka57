@@ -1,8 +1,8 @@
 
 
-# 👋 Salut, moi c'est Amandine !
+# Salut, moi c'est Amandine !
 
-🎨 Développeuse Full Stack passionnée par la création d'interfaces modernes, accessibles et intuitives.
+Développeuse Full Stack passionnée par la création d'interfaces modernes, accessibles et intuitives.
 
 Après plus de 15 ans dans le commerce et le management, j'ai choisi de me reconvertir dans le développement web afin d'allier créativité, logique et résolution de problèmes.
 
@@ -45,7 +45,9 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ### 📈 Statistiques GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Looka57&show_icons=true&theme=radical&hide_border=true" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Looka57&show_icons=true&theme=radical&hide_border=true)
+
 </div>
 
 ## 💼 Projets
