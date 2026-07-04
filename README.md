@@ -19,7 +19,7 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧰 Outils & Environnement
 
@@ -33,7 +33,7 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 #### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-#7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Photopea](https://img.shields.io/badge/photopea-##18A497?style=for-the-badge&logo=photopea&logoColor=white)
 
 #### ⚙️ Méthodologie
 - Responsive Design
