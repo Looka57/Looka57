@@ -8,23 +8,14 @@ Après plus de 15 ans dans le commerce et le management, j'ai choisi de me recon
 
 Aujourd'hui, je conçois des applications web complètes, du design jusqu'au développement, avec une attention particulière portée à l'expérience utilisateur et à la qualité du code.
 
-## 🚀 Technologies
+## 🛠️ Technologies
 
-### Front-end
-
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* ASP.NET MVC
-
-### Back-end
-
-* C#
-* PHP
-* ASP.NET Core
-* SQL
-* MySQL
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![PHP](https://img.shields.io/badge/PHP-purple)
+![C#](https://img.shields.io/badge/C%23-green)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-core-blue)
 
 ### Outils
 
