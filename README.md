@@ -29,11 +29,11 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 #### 🔧 Versioning & collaboration
 - Git
-- GitHub
+![Github](https://img.shields.io/badge/github-F03C2E?style=for-the-badge&logo=github&logoColor=white)
 
 #### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photopea](https://img.shields.io/badge/photopea-##18A497?style=for-the-badge&logo=photopea&logoColor=white)
+![Photopea](https://img.shields.io/badge/photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white)
 
 #### ⚙️ Méthodologie
 - Responsive Design
