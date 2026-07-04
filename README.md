@@ -12,17 +12,17 @@
 
 ---
 
-### 🧭 Qui suis-je ?
+### Qui suis-je ?
 
 Après plus de **15 ans dans le commerce et le management**, j'ai choisi de me reconvertir dans le développement web afin d'allier créativité, logique et résolution de problèmes.
 
 Aujourd'hui, je conçois des applications web complètes, du design jusqu'au développement, avec une attention particulière portée à l'**expérience utilisateur** et à la **qualité du code**.
 
-🎯 **Mon objectif** : construire des applications utiles, modernes et accessibles, tout en continuant à apprendre. J'aime transformer une idée en un projet concret, fonctionnel et agréable à utiliser.
+**Mon objectif** : construire des applications utiles, modernes et accessibles, tout en continuant à apprendre. J'aime transformer une idée en un projet concret, fonctionnel et agréable à utiliser.
 
 ---
 
-### 🛠️ Technologies
+### Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,30 +33,31 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🧰 Outils & environnement
+### Outils & environnement
 
-**💻 Développement**  
+** Développement**  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-**🔧 Versioning & collaboration**  
+** Versioning & collaboration**  
 ![Git](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**🎨 Design & UI/UX**  
+** Design & UI/UX**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photopea](https://img.shields.io/badge/photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white)
 
-**⚙️ Méthodologie**  
-`Responsive Design` · `UI/UX Design` · `API REST (en cours d'apprentissage)` · `Architecture MVC` · `Clean Code`
+### Méthodologie & bonnes pratiques 
+`Responsive Design` · `UI/UX Design` · `API REST (en cours d'apprentissage)` · `Architecture MVC` · `Clean Code` . `Principes SOLID (bases)` . `Méthode Agile / Scrum (travail en équipe)` . 
+`Notions de tests (unitaires / fonctionnels)` .  `Optimisation des performances web` .  `Accessibilité (a11y) & bonnes pratiques UX` .  `Sécurité web (bases : validation, protection des formulaires, Requetes preparées)`
 
 ---
 
-### 📈 Statistiques GitHub
+### Statistiques GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Looka57&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Looka57&layout=compact&theme=radical&hide_border=true" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Looka57&theme=github_dark" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Looka57&theme=github_dark" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Looka57&theme=radical&hide_border=true" />
@@ -64,7 +65,7 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ---
 
-### 💼 Projets
+### Projets
 
 **📌 Site institutionnel ADEM Luxembourg**
 - Développement d'un site dynamique pour le Rapport Annuel
@@ -78,7 +79,7 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ---
 
-### 🌱 En ce moment
+### En ce moment
 
 - Développement d'applications avec **ASP.NET Core MVC**
 - Approfondissement de **C#** et de l'architecture logicielle
