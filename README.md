@@ -9,20 +9,38 @@ Après plus de 15 ans dans le commerce et le management, j'ai choisi de me recon
 Aujourd'hui, je conçois des applications web complètes, du design jusqu'au développement, avec une attention particulière portée à l'expérience utilisateur et à la qualité du code.
 
 ### 🛠️ Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/asp.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Outils
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* Visual Studio
-* Visual Studio Code
-* Git & GitHub
-* Figma
-* Photoshop
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🧰 Outils & Environnement
+
+#### 💻 Développement
+- Visual Studio
+- Visual Studio Code
+
+#### 🔧 Versioning & collaboration
+- Git
+- GitHub
+
+#### 🎨 Design & UI/UX
+- Figma
+- Photoshop
+
+#### ⚙️ Méthodologie
+- Responsive Design
+- UI/UX Design
+- API REST (en cours d’apprentissage)
+- Architecture MVC
+- Clean Code
 
 
 ### 📈 Statistiques GitHub
