@@ -2,7 +2,7 @@
 <h3 align="center">Développeuse Full Stack — reconvertie et passionnée par la création d'interfaces modernes, accessibles et intuitives</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/amandine-napolitano-363231232/">
+  <a href="https://www.linkedin.com/in/amandine-napolitano-363231232/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ton-site-web.com">
