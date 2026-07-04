@@ -32,8 +32,8 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 - GitHub
 
 #### 🎨 Design & UI/UX
-- Figma
-- Photoshop
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-#7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### ⚙️ Méthodologie
 - Responsive Design
@@ -50,11 +50,6 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 </div>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Looka57&theme=radical&hide_border=true)
-
-</div>
 
 ## 💼 Projets
 
