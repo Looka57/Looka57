@@ -27,7 +27,7 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ### 📈 Statistiques GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Looka57&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 ## 💼 Projets
@@ -59,7 +59,7 @@ Construire des applications utiles, modernes et accessibles tout en continuant �
 J'aime transformer une idée en un projet concret, fonctionnel et agréable à utiliser.
 
 ---
----
+
 ### 📬 Me contacter
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-url-linkedin)
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ton-site-web.com)
