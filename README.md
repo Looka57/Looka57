@@ -65,26 +65,65 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ---
 
-### Projets
+### 💼 Projets
 
-** Site institutionnel ADEM Luxembourg**
-- Développement d'un site dynamique pour le Rapport Annuel
-- Interface d'administration permettant la gestion complète des contenus
-- Stack : PHP · MySQL · Bootstrap · JavaScript
+<table>
+  <tr>
+    <td width="60%">
+      <h4>📌 Site institutionnel — ADEM Luxembourg</h4>
+      <p>Développement d'un site dynamique pour le Rapport Annuel, avec une interface d'administration permettant la gestion complète des contenus (textes, images, mise en page) sans intervention technique.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
+    </td>
+    <td width="40%">
+      <b>Rôle :</b> Développement Full Stack<br/>
+      <b>Points clés :</b>
+      <ul>
+        <li>Back-office sur-mesure</li>
+        <li>Architecture MVC</li>
+        <li>Contenu 100% administrable</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="60%">
+      <h4>📌 Refonte de sites web</h4>
+      <p>Reprise de sites existants : nouvelles maquettes UI/UX, développement responsive et optimisation des performances et de l'accessibilité pour une expérience utilisateur plus fluide.</p>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
+    </td>
+    <td width="40%">
+      <b>Rôle :</b> UI/UX & développement<br/>
+      <b>Points clés :</b>
+      <ul>
+        <li>Maquettage from scratch</li>
+        <li>Responsive design</li>
+        <li>Accessibilité (a11y)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-** Refonte de sites web**
-- Conception de maquettes UI/UX
-- Développement responsive
-- Optimisation des performances et de l'accessibilité
+> 🔗 Envie de voir le code ? Retrouve mes dépôts épinglés directement sur mon profil GitHub ci-dessus.
 
 ---
 
-### En ce moment
+### 🌱 En ce moment
 
-- Développement d'applications avec **ASP.NET Core MVC**
-- Approfondissement de **C#** et de l'architecture logicielle
-- Bonnes pratiques de développement & **Clean Code**
+```text
+🎓 Apprentissage      → ASP.NET Core MVC & approfondissement de C#
+🏗️ Architecture       → Conception logicielle, principes SOLID
+✨ Bonnes pratiques   → Clean Code, tests unitaires, sécurité web
+🚀 Objectif du moment → Construire un projet complet en .NET de A à Z
+```
+
+💡 **Ouverte aux opportunités** en tant que développeuse Full Stack — n'hésitez pas à me contacter si un poste ou un projet peut correspondre à mon profil !
 
 ---
 
-<p align="center"> N'hésitez pas à parcourir mes projets et à suivre mon évolution !</p>
+<p align="center">⭐ N'hésitez pas à parcourir mes projets et à suivre mon évolution !</p>
+
