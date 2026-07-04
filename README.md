@@ -72,16 +72,16 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ---
 
-### 💼 Projets
+### Projets
 
 
-**📌 APS Judo – Porcelette (Système web complet)**
+** APS Judo – Porcelette (Système web complet)**
 Développement d'un écosystème web complet pour une structure associative de judo.
-- 🌐 Site public pour présenter l'activité et les informations du club
-- 🔐 Dashboard administrateur pour la gestion des contenus
-- 🗄️ Serveur / architecture backend pour centraliser les données
-- ♻️ Gestion dynamique des contenus (CRUD complet)
-- 🎯 Travail sur l'ergonomie, la navigation et l'accessibilité
+- Site public pour présenter l'activité et les informations du club
+- Dashboard administrateur pour la gestion des contenus
+- Serveur / architecture backend pour centraliser les données
+- Gestion dynamique des contenus (CRUD complet)
+- Travail sur l'ergonomie, la navigation et l'accessibilité
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -94,11 +94,11 @@ Développement d'un écosystème web complet pour une structure associative de j
 
 ---
 
-**📌 Site institutionnel — ADEM Luxembourg**
+** Site institutionnel — ADEM Luxembourg**
 Développement d'un site dynamique pour le Rapport Annuel, avec une interface d'administration permettant la gestion complète des contenus sans intervention technique.
-- 🖥️ Back-office sur-mesure
-- 🏗️ Architecture MVC
-- ✏️ Contenu 100% administrable
+- Back-office sur-mesure
+- Architecture MVC
+- Contenu 100% administrable
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -111,30 +111,39 @@ Développement d'un site dynamique pour le Rapport Annuel, avec une interface d'
 
 ---
 
-**📌 Refonte de sites web**
-Reprise de sites existants : nouvelles maquettes UI/UX, développement responsive et optimisation des performances et de l'accessibilité.
-- 🎨 Maquettage from scratch
-- 📱 Responsive design
-- ♿ Accessibilité (a11y)
+** Admin MNS**
+Application de gestion administrative développée en C# / ASP.NET MVC pour l'examen du diplôme Concepteur Développeur d'Application 2024/2025.
+- Gestion des stagiaires, Roles, Dossiers, Utilisateurs... (CRUD)
+- Dashboard de pilotage pour visualiser l’activité
+- Architecture modulaire facilitant l’ajout de fonctionnalités
+- Persistance des données via Entity Framework et base SQL
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 > 🔗 Envie de voir le code ? Retrouve mes dépôts épinglés directement sur mon profil GitHub ci-dessus.
 
 ---
 
-### 🌱 En ce moment
+###En ce moment
 
 ```text
-🎓 Apprentissage      → ASP.NET Core MVC & approfondissement de C#
-🏗️ Architecture       → Conception logicielle, principes SOLID
-✨ Bonnes pratiques   → Clean Code, tests unitaires, sécurité web
-🚀 Objectif du moment → Construire un projet complet en .NET de A à Z
+Apprentissage      → ASP.NET Core MVC & approfondissement de C#
+Architecture       → Conception logicielle, principes SOLID
+Bonnes pratiques   → Clean Code, tests unitaires, sécurité web
+Objectif du moment → Construire un projet complet en .NET de A à Z
 ```
 
-💡 **Ouverte aux opportunités** en tant que développeuse Full Stack — n'hésitez pas à me contacter si un poste ou un projet peut correspondre à mon profil !
+**Ouverte aux opportunités** en tant que développeuse Full Stack — n'hésitez pas à me contacter si un poste ou un projet peut correspondre à mon profil !
 
 ---
 
-<p align="center">⭐ N'hésitez pas à parcourir mes projets et à suivre mon évolution !</p>
+<p align="center">N'hésitez pas à parcourir mes projets et à suivre mon évolution !</p>
 
