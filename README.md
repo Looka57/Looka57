@@ -75,7 +75,7 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 ### Projets
 
 
-**APS Judo – Porcelette (Système web complet)**
+**ASP Arts Martiaux – Porcelette (Système web complet)**
 Développement d'un écosystème web complet pour une structure associative de judo.
 - Site public pour présenter l'activité et les informations du club
 - Dashboard administrateur pour la gestion des contenus
@@ -85,8 +85,10 @@ Développement d'un écosystème web complet pour une structure associative de j
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ![Vue.JS](https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![PrimeVue](https://img.shields.io/badge/primevue-41B883?style=for-the-badge&logo=primevue&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -94,7 +96,7 @@ Développement d'un écosystème web complet pour une structure associative de j
 
 ---
 
-**Site institutionnel — ADEM Luxembourg**
+**Rapport Annuel 2023 — ADEM Luxembourg**
 Développement d'un site dynamique pour le Rapport Annuel, avec une interface d'administration permettant la gestion complète des contenus sans intervention technique.
 - Back-office sur-mesure
 - Architecture MVC
@@ -111,7 +113,7 @@ Développement d'un site dynamique pour le Rapport Annuel, avec une interface d'
 
 ---
 
-**Admin MNS**
+**Admin MNS  —  Metz**
 Application de gestion administrative développée en C# / ASP.NET MVC pour l'examen du diplôme Concepteur Développeur d'Application 2024/2025.
 - Gestion des stagiaires, Roles, Dossiers, Utilisateurs... (CRUD)
 - Dashboard de pilotage pour visualiser l’activité
