@@ -67,46 +67,36 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ### 💼 Projets
 
-<table>
-  <tr>
-    <td width="60%">
-      <h4>📌 Site institutionnel — ADEM Luxembourg</h4>
-      <p>Développement d'un site dynamique pour le Rapport Annuel, avec une interface d'administration permettant la gestion complète des contenus (textes, images, mise en page) sans intervention technique.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="20"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
-    </td>
-    <td width="40%">
-      <b>Rôle :</b> Développement Full Stack<br/>
-      <b>Points clés :</b>
-      <ul>
-        <li>Back-office sur-mesure</li>
-        <li>Architecture MVC</li>
-        <li>Contenu 100% administrable</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="60%">
-      <h4>📌 Refonte de sites web</h4>
-      <p>Reprise de sites existants : nouvelles maquettes UI/UX, développement responsive et optimisation des performances et de l'accessibilité pour une expérience utilisateur plus fluide.</p>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
-    </td>
-    <td width="40%">
-      <b>Rôle :</b> UI/UX & développement<br/>
-      <b>Points clés :</b>
-      <ul>
-        <li>Maquettage from scratch</li>
-        <li>Responsive design</li>
-        <li>Accessibilité (a11y)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+**📌 APS Judo – Porcelette (Système web complet)**
+Développement d'un écosystème web complet pour une structure associative de judo.
+- 🌐 Site public pour présenter l'activité et les informations du club
+- 🔐 Dashboard administrateur pour la gestion des contenus
+- 🗄️ Serveur / architecture backend pour centraliser les données
+- ♻️ Gestion dynamique des contenus (CRUD complet)
+- 🎯 Travail sur l'ergonomie, la navigation et l'accessibilité
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="20"/>
+
+---
+
+**📌 Site institutionnel — ADEM Luxembourg**
+Développement d'un site dynamique pour le Rapport Annuel, avec une interface d'administration permettant la gestion complète des contenus sans intervention technique.
+- 🖥️ Back-office sur-mesure
+- 🏗️ Architecture MVC
+- ✏️ Contenu 100% administrable
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
+
+---
+
+**📌 Refonte de sites web**
+Reprise de sites existants : nouvelles maquettes UI/UX, développement responsive et optimisation des performances et de l'accessibilité.
+- 🎨 Maquettage from scratch
+- 📱 Responsive design
+- ♿ Accessibilité (a11y)
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"/>
 
 > 🔗 Envie de voir le code ? Retrouve mes dépôts épinglés directement sur mon profil GitHub ci-dessus.
 
