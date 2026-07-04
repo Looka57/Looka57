@@ -28,8 +28,8 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 - Visual Studio Code
 
 #### 🔧 Versioning & collaboration
-- Git
-![Github](https://img.shields.io/badge/github-F03C2E?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 #### 🎨 Design & UI/UX
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
