@@ -46,7 +46,7 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 ### 📈 Statistiques GitHub
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Looka57&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Looka57&theme=radical&hide_border=true)
 
 </div>
 
