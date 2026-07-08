@@ -22,37 +22,61 @@ Aujourd'hui, je conçois des applications web complètes, du design jusqu'au dé
 
 ---
 
-### Technologies
+### 🛠️ Technologies
+
+#### Front-End
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Vue.JS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-41B883?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+#### Back-End
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-![Vue.JS](https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![PrimeVue](https://img.shields.io/badge/primevue-41B883?style=for-the-badge&logo=primevue&logoColor=white)
-![Next.Js](https://img.shields.io/badge/nextdotjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+#### Bases de données
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Outils & environnement
+### 🧰 Outils & environnement
 
-**Développement**  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+#### 💻 Développement
 
-**Versioning & collaboration**  
-![Git](https://img.shields.io/badge/git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Design & UI/UX**  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photopea](https://img.shields.io/badge/photopea-18A497?style=for-the-badge&logo=photopea&logoColor=white)
+
+#### 🔧 Versioning & collaboration
+
+![Git](https://img.shields.io/badge/Git-F03C2E?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+#### 🎨 Design & UI/UX
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+#### 🐳 Déploiement & environnement
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OVH](https://img.shields.io/badge/OVH_VPS-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
+
+- Serveur Linux / VPS
+- Déploiement d'applications web
+- Configuration d'environnement de production
+- Gestion d'hébergement
 
 ### Méthodologie & bonnes pratiques 
 `Responsive Design` · `UI/UX Design` · `API REST (en cours d'apprentissage)` · `Architecture MVC` · `Clean Code` · `Principes SOLID (bases)` · `Méthode Agile / Scrum (travail en équipe)` ·
