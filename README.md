@@ -1,5 +1,5 @@
 <h1 align="center">Salut, moi c'est Amandine </h1>
-<h3 align="center">Développeuse Full Stack — reconvertie et passionnée par la création d'interfaces modernes, accessibles et intuitives</h3>
+<h3 align="center">Développeuse Junior Full Stack — reconvertie et passionnée par la création d'interfaces modernes, accessibles et intuitives</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amandine-napolitano-363231232/">
